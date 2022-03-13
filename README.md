@@ -2,6 +2,13 @@
 
 El nombre distinguido (DN) identifica de forma exclusiva una entidad en un certificado X.509:
 
+<ol>
+  <li>Elemento 1</li>
+  <li>Elemento 2</li>
+  ...
+  <li>Elemento N</li>
+</ol>
+
 SERIALNUMBER	       Número de serie del certificado
 MAIL	               Dirección de correo electrónico
 E	                  Dirección de correo electrónico (En desuso en preferencia a MAIL)
